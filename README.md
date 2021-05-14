@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @coletangsy
 - 👀 I’m interested in data science, python and esports!
-- 🌱 I’m currently learning more about python scraping.
+- 🌱 I’m currently working on **Google Data Analyst Professional Certificate**.
 
-- 📫 How to reach me ...
+- 📫 My Matters https://matters.news/@coletangsy
 
 <!---
 coletangsy/coletangsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
