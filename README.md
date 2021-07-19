@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicole Tang,
+- 👋 Hi, I’m Nicole Tang, a self-motivated learner in data science and machine learning. 
 - 👀 I’m interested in Data Science, Machine Learning, and of course, Esports!
-- 🌱 I’m currently working on my **Google Data Analyst Professional Certificate** & **Full-time Data Science and Machine Learning Immersive Bootcamp**. And also, I'm going through some micro-courses provided by **Kaggle, Google**, and **online course on Udemy** too!
+- 🌱 Recently completed the **Google Data Analytics Professional Certificate**. For now, I am taking a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**. Also, I'm going through some micro-courses provided by **Kaggle, Google**, and **online course on Udemy** too!
 - 🌻 I will upload some previous exercises, web-scraping projects, and datasets I used for my data-analysis practices here. For my data analysis projects, please check my Kaggle. (I will upload here, but later =P)
 - 📫 My data analysis projects: https://www.kaggle.com/nicoletangsy
 
