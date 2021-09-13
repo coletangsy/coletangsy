@@ -1,3 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coletangsy&show_icons=true)
+<br>
+
+
+
 - 👋 Hi, I’m Nicole Tang, a self-motivated learner in data science and machine learning. 
 - 👀 I’m interested in Data Science, Machine Learning, and of course, Esports!
 - 🌱 Recently completed the **Google Data Analytics Professional Certificate**. For now, I am taking a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**. Also, I'm going through some micro-courses provided by **Kaggle, Google**, and **online course on Udemy** too!
