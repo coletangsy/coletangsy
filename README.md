@@ -2,7 +2,7 @@
 <br>
 
 
-- 👀 Interested in **Data Science, E-sports, Customers Experiences, Marketing**
+- 👀 Interested in **Data Analysis, Data Science, E-sports, Customers Experiences, Marketing**
  
 - 📝 Recently completed the **Google Data Analytics Professional Certificate**
 
