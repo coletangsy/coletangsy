@@ -6,7 +6,7 @@
  
 - 📝 Recently completed the **Google Data Analytics Professional Certificate**
 
-- 🌱 Currently taking a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**
+- 🌱 Currently Finished a **16-week full-time Data Science and Machine Learning Immersive Bootcamp**
 
 - 👨‍💻 All of my **projects** are available at [https://github.com/coletangsy](https://github.com/coletangsy)
 
