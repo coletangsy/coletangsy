@@ -15,7 +15,7 @@
 <br>
 
 
-***Looking for an opportunity that allows me to give full play to my skills*** 
+<!--***Looking for an opportunity that allows me to give full play to my skills*** -->
 <br>
 <br>
 
